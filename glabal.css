@@ -31,7 +31,7 @@ body{
 }
 .container{
     max-width: 384px;
-    margin:  40px auto;
+    margin:  auto;
     padding: 24px;
 }
 ::-webkit-scrollbar {
